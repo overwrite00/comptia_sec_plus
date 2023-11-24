@@ -302,3 +302,7 @@ Di seguito riporto la lista degli obiettivi con i relativi argomenti del percors
   * Blue-team
   * White-team
   * Purple-team
+
+## 2.0 Architecture and Design
+
+### 2.1 Explain the importance of security concepts in an enterprise environment
