@@ -1,5 +1,7 @@
 # Certificazione CompTIA Security+ (Exam SY0-601)
 
+![Logo CompTIA Security+](images/comptiasecplus.jpeg)
+
 Di seguito riporto la lista degli obiettivi con i relativi argomenti del percorso di studio per l'ottenimento della certificazione CompTIA Security+ (SY0-601). Può essere utilizzato anche come base di partenza per coloro che si avvicinano al mondo della Cybersecurity e vogliono avere un punto di partenza sugli argomenti da studiare per poi approfondire.
 
 * Esame richiesto: **SY0-601**
