@@ -645,3 +645,78 @@ Di seguito riporto la lista degli obiettivi con i relativi argomenti del percors
   * Resource vs. security constraints
 
 ## 3.0 Implementation
+
+### 3.1 Given a scenario, implement secure protocols
+
+* Protocols
+  * Domain Name System Security Extensions (DNSSEC)
+  * SSH
+  * Secure/Multipurpose Internet Mail Extensions (S/MIME)
+  * Secure Real-time Transport Protocol (SRTP)
+  * Lightweight Directory Access Protocol Over SSL (LDAPS)
+  * File Transfer Protocol, Secure (FTPS)
+  * SSH File Transfer Protocol (SFTP)
+  * Simple Network Management Protocol, version 3 (SNMPv3)
+  * Hypertext transfer protocol over SSL/TLS (HTTPS)
+  * IPSec
+    * Authentication header (AH)/Encapsulation Security Payloads (ESP)
+    * Tunnel/transport
+  * Post Office Protocol (POP)/Internet Message Access Protocol (IMAP)
+* Use cases
+  * Voice and video
+  * Time sincronization
+  * Email and web
+  * File transfer
+  * Directory services
+  * Remote access
+  * Domain name resolution
+  * Routing and switching
+  * Network address allocation
+  * Subscription services
+
+### 3.2 Given a scenario, implement host or applications security solutions
+
+* Endpoint protection
+  * Antivirus
+  * Anti-malware
+  * Endpoint detection and response (EDR)
+  * DLP
+  * Next-generation firewall (NGFW)
+  * Host-based intrusion prevention system (HIPS)
+  * Host-based intrusion detection system (HIDS)
+  * Host-based firewall
+* Boot integrity
+  * Boot security/Unified Extensible Firmware Interface (UEFI)
+  * Measured boot
+  * Boot attestation
+* Database
+  * Tokenization
+  * Salting
+  * Hashing
+* Application security
+  * Input validations
+  * Secure cookies
+  * Hypertext Transfer Protocol (HTTP) headers
+  * Code signing
+  * Allow list
+  * Block list/deny list
+  * Secure coding practices
+  * Static code analysis
+    * Manual code review
+  * Dynamic code analysis
+  * Fuzzing
+* Hardening
+  * Open ports and services
+  * Registry
+  * Disk encryption
+  * OS
+  * Patch management
+    * Third-party updates
+    * Auto-update
+* Self-encryption drive (SED)/full-disk encryption (FDE)
+  * Opal
+* Hardware root of trust
+* Trusted Platform Module (TPM)
+* Sandboxing
+
+### 3.3 Given a scenario, implement secure network designs
