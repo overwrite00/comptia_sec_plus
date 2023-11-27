@@ -719,7 +719,7 @@ Di seguito riporto la lista degli obiettivi con i relativi argomenti del percors
 * Trusted Platform Module (TPM)
 * Sandboxing
 
-### 3.3 Given a scenario, implement secure network designs.
+### 3.3 Given a scenario, implement secure network designs
 
 * Load balancing
   * Active/active
