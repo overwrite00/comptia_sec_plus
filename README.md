@@ -2,7 +2,7 @@
 
 ![Logo CompTIA Security+](images/comptiasecplus.jpeg)
 
-**Credit:** CompTIA© <https://www.comptia.org/>
+***Credit:** CompTIA© <https://www.comptia.org/>*
 
 Di seguito riporto la lista degli obiettivi con i relativi argomenti del percorso di studio per l'ottenimento della certificazione CompTIA Security+ (SY0-601).
 
