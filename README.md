@@ -10,8 +10,8 @@ Può essere utilizzato, anche, come base di partenza per coloro che si avvicinan
 
 * Esame richiesto: **SY0-601**
 * Numero di domande: **90**
-* Tipo di domande: **A scelta multipla e basate sulla migliore** (_performance-based_)
-* Durata: **90 minuti+30** (_per coloro che non sono madre lingua inglese_)
+* Tipo di domande: **A scelta multipla e basate sulla migliore** (*performance-based*)
+* Durata: **90 minuti+30** (*per coloro che non sono madre lingua inglese*)
 * Punteggio minimo per il superamento: **750** (su una scala da 100-900)
 
 ## Obiettivi d'esame (domini)
@@ -148,7 +148,7 @@ Può essere utilizzato, anche, come base di partenza per coloro che si avvicinan
   * Radio frequency identification (RFID)
   * Near-field communication (NFC)
   * Initialization vector (IV)
-* On-path attack (ex _man-in-the-middle attack/man-in-the-browser attack_)
+* On-path attack (ex *man-in-the-middle attack/man-in-the-browser attack*)
 * Layer 2 attacks
   * Address resolution
   * Protocol (ARP) poisoning
