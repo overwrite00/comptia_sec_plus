@@ -4,7 +4,7 @@
 
 ***Credit:** CompTIA© <https://www.comptia.org/>*
 
-Di seguito riporto la lista degli obiettivi con i relativi argomenti del percorso di studio per l'ottenimento della certificazione [CompTIA Security+](omptia.org/certifications/security) (SY0-601).
+Di seguito riporto la lista degli obiettivi con i relativi argomenti del percorso di studio per l'ottenimento della certificazione [CompTIA Security+](https://comptia.org/certifications/security) (SY0-601).
 
 ⚠️ **ATTENZIONE:** L'esame è stato sostituito con SY0-701
 
