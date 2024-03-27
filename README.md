@@ -25,7 +25,7 @@ Può essere utilizzato, anche, come base di partenza per coloro che si avvicinan
 | 3.0 Implementation | 25% |
 | 4.0 Operations and Incident Response | 16% |
 | 5.0 Governance, Risk, and Compliance | 14% |
-| **Totale** | 100% |
+| **Totale** | **100%** |
 
 ## 1.0 Attacks, Threats and vulnerability
 
