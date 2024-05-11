@@ -8,7 +8,7 @@ Di seguito riporto la lista degli obiettivi con i relativi argomenti del percors
 
 ⚠️ **ATTENZIONE:** L'esame è stato sostituito con **SY0-701**
 
-Può essere utilizzato, anche, come base di partenza per coloro che si avvicinano al mondo della Cybersecurity e vogliono avere un punto di partenza sugli argomenti da studiare per poi approfondire, poiché affronta a 360 gradi tutti gli aspetti che riguardano questo settore.
+Può essere utilizzato, anche, come base di partenza per coloro che si avvicinano al mondo della Cybersecurity e vogliono avere un punto di partenza sugli argomenti da studiare per poi approfondire, poiché affronta a 360 gradi tutti gli aspetti che bisogna conoscere per intraprendere una professione in questo settore.
 
 * Esame richiesto: **SY0-601**
 * Numero di domande: **90**
